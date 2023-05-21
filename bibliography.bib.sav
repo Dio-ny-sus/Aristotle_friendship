@@ -4055,14 +4055,4 @@
   doi     = {10.1111/j.1467-9329.2009.00449.x},
 }
 
-@Article{Hitz2011,
-  author    = {Hitz, Zena},
-  journal   = {Philosophers' Imprint},
-  title     = {Aristotle on {Self}-{Knowledge} and {Friendship}},
-  year      = {2011},
-  pages     = {1--28},
-  volume    = {11},
-  publisher = {Mpublishing},
-}
-
 @Comment{jabref-meta: databaseType:bibtex;}
